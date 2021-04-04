@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="title_home">Inicio</string>
+    <string name="title_save">Guardar</string>
+    <string name="title_search">Buscar</string>
+    <string name="title_details">Detalles</string>
+    <string name='saved_item_author'>Autor:</string>
+    <string name="saved_item_description">Descripción:</string>
+</resources>

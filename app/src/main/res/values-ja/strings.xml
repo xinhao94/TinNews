@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_save">お気に入り</string>
+    <string name="title_search">検索</string>
+    <string name="title_details">詳細</string>
+    <string name='saved_item_author'>作者:</string>
+    <string name="saved_item_description">説明:</string>
+</resources>
